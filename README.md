@@ -107,7 +107,7 @@ WCMS/
 1. Clone the repository
 
 ```
-git clone https://github.com/https://github.com/mahadshire/wcms.git
+https://github.com/Mahadshire/wcms.git
 ```
 
 2. Move the project to your server directory
